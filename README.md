@@ -4,7 +4,7 @@
 
 An interactive dashboard of revenue and spending forecasts for the 300 largest US cities, built in R with Shiny and the `fable` forecasting package.
 
-![Property tax forecasts for Los Angeles, Chicago, Houston and Phoenix, with 95% forecast ranges](screenshots/compare.png)
+![Property tax forecasts for Los Angeles, Chicago, Houston and Phoenix, with 95% forecast ranges](compare.png)
 
 ## What it does
 
@@ -14,7 +14,7 @@ An interactive dashboard of revenue and spending forecasts for the 300 largest U
 -   Flags unusual values in the history (such as one-off spikes) and fills short gaps in the record.
 -   Exports any selection as a CSV table.
 
-![Total revenue for New York City with its forecast range](screenshots/chart.png)
+![Total revenue for New York City with its forecast range](chart.png)
 
 ## How it was built
 
